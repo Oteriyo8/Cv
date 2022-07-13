@@ -4,7 +4,7 @@
 		"apellido1": "Otero",
 		"apellido2": "Lodeiro",
 		"telf": "",
-		"email": "dotelod@gmail.com",
+		"email": "dotelod.sansus3@gmail.com",
 		"direccion": "Rua do Pnedo",
 		"ciudad": "Santiago de Compostela",
 		"cp": "15705"
@@ -47,8 +47,8 @@
 	
 		{
 			"1": "Técnico de validación",
-			"empresa": "MoonOff S.L.",
-			"descripcion": "Control de calidad de productos electrónicos mediante las pautas de la empresa",
+			"empresa": "Moon S.L.",
+			"descripcion": "Control de calidad de productos electrónicos",
 			"lugar": "Santiago de Compostela, A Coruña",
 			"fecha": "08-2018 al 07-2019"
 		},
